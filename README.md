@@ -5,7 +5,7 @@ Telecom operator - Classification model to recommend a plan
 
 # Project Description:
 
-Mobile company Megaline found out that its customers are using legacy plans. They want to develop a model that can analyze customer behavior and recommend one of Megaline's new plans: Smart or Ultra. You have access to data of subscribers who have already switched to new plans. For this classification task, **you must create a model that chooses the right plan.** Develop a model as accurate as possible. In this project, the accuracy threshold is 0.75. Use the dataset to check for accuracy.
+Mobile company Megaline found out that its customers are using legacy plans. They want to develop a model that can analyze customer behavior and recommend one of Megaline's new plans: Smart or Ultra. You have access to data of subscribers who have already switched to new plans. For this classification task, **you must create a model that choose the right plan.** Develop a model as accurate as possible. In this project, the accuracy threshold is 0.75. Use the dataset to check for accuracy.
 
 # Data:
 
